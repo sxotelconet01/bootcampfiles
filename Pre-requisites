@@ -1,0 +1,24 @@
+Linux VM (CentOS) on Google Cloud Portal
+IP address: 34.74.79.104
+Username: telconetuser
+Private Key file: <<<< attached >>>>
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDjb76hDycN4jxlGhm801A57dTudNa1V2zdwx26jzZpoqEzDOmXDeeRCyuhv5RHw+20qPxFlC0mp91ajogEJW8H2Ztz+2YenSa+84MK1U7ff5D6i80co59e3pCEK3kSoOhXJ3Xi/GKWDaoSjdenFfqiE3tRmane9MV2M0cDysAovUq0aRy22t35+2Ta4Cf7qKQT2rW3AdShQj2TzCFLnTF5M89aj9BMb9R4B2zPZ9S0oqvPLyZVIgFvaELO9lh4RRwFDsTqt/u4J33m80TRt63o5K0Cd+iZJBSzuz+i37t1QgCSFmFR0y7oR4/ReZGB8G88YwBkpRSJIm3dAGVW9dYYlCNQigaCnw7eOHh/327e2Jm1Y7VgkCQMAKaJURv+zpINL2pWUs3VQ3kyVX1VxwpVe8C5pTkfg6QVzsJBSy1GqmUDsiouJaJcnbUvCF3Om5zq6jl39ZEfI7j6Rr0Cvv9XkAUth8p4f3m5l2WZae/Ggk99HOGcS94CGWyZLphRnKk= telconetuser
+
+Git Credentials
+URL: https://github.com
+Email: sxotelconet@gmail.com
+Username: sxotelconet@gmail.com or Sxotelconet
+Password: Cisco.12
+
+SMTP server: smtp.gmail.com 
+SMTP Port: 465
+-----
+POP3 server: pop.gmail.com
+POP3 Port: 995
+----
+Username: sxotelconet01@gmail.com
+Password: Cisco.123
+
+HTTPS Target:
+HOST/IPADDRESS: jsonplaceholder.typicode.com
+Port: 443
